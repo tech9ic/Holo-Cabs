@@ -20,3 +20,13 @@ This Android app puts you in the driver's seat (well, technically, the passenger
 - Comprehensive documentation and comments 📝
 
 **Let's make every ride an adventure! 🚀**
+
+---
+
+### License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). 
+
+- **Commercial Use:** You may not use, distribute, or otherwise exploit the Holo Cabs project or its derivatives for commercial purposes. Only the original creator retains the right to launch, distribute, or otherwise make the project available to the public in a commercial context.
+- **Attribution:** You must provide appropriate credit to the original creators of the Holo Cabs project.
+- **No Warranty:** The Holo Cabs project is provided "as is," without any warranties or guarantees. The authors are not liable for any damages or issues arising from the use of the project
